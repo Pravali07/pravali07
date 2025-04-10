@@ -1,6 +1,7 @@
 Hello there 👋
 
-I am Pravallika Pulivendula, a Computer Science grad at JNTUA College of Engineering, Pulivendula. I am very passionate about programming. I've been coding from the past two years in Python on various platforms like CodeChef, Hackerrank, GeeksforGeeks.
-Apart from programming, I developed some Web Applications using HTML, CSS, Flask, SQLite. And also built basic Machine Learning models.
+I am Pravallika Pulivendula. I have over 3 years of experience in building websites and web applications using Java, JavaScript, HTML, CSS, ReactJS, and PHP.
+
+Right now, I’m working as a software developer at Everest Engineering. I enjoy writing code, solving problems, and learning new things every day.
 
 📫 How to reach me: pravallikap2016@gmail.com
