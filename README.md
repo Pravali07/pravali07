@@ -1,6 +1,6 @@
 Hello there 👋
 
-I am Pravallika Pulivendula. I have over 4 years of experience in building websites and web applications using Java, JavaScript, HTML, CSS, ReactJS, and PHP.
+I am Pravallika Pulivendula. I have over 5 years of experience in building websites and web applications using Java, JavaScript, HTML, CSS, ReactJS, and PHP.
 
 Right now, I’m working as a software developer at Everest Engineering. I enjoy writing code, solving problems, and learning new things every day.
 
